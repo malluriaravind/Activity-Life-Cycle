@@ -23,7 +23,4 @@ The purpose of the app is to understand the activity life cycle and the role the
 
 ## Video Demonstration
 
-<video width="320" height="240" controls>
-  <source src="./images/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to download or view the video demonstration](./images/video.mp4)
